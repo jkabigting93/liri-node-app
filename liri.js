@@ -1,11 +1,9 @@
 require("dotenv").config();
 
 var keys = require("./keys.js");
-var spotify = new Spotify(keys.spotify);
+// var spotify = new Spotify(keys.spotify);
 
 var axios = require("axios");
-var moment = require('moment');
-moment().format();
 
 // Takes command line arguments for each function
 var command = process.argv[2];
@@ -38,7 +36,7 @@ function concertThis(value) {
                 "*********************************************************************" +
                     "\nVenue Name: " + response.data[i].venue.name + 
                     "\nVenue Location: " + response.data[i].venue.city +
-                    "\nDate of the Event: " + moment(dateArr[0], "MM-DD-YYYY");
+                    "\nDate of the Event: " + dateArr[0];
             console.log(concertResults);
         }
     })
