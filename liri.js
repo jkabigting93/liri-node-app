@@ -44,3 +44,27 @@ function concertThis(value) {
         console.log(error);
     })
 }
+
+// Spotify-This-Song (Spotify)
+function spotifySong(value) {
+    if(!value){
+        value = "The Sign";
+    }
+    spotify
+    .search({ type: 'track', query: value })
+    .then(function(response) {
+        for (var i = 0; i < 5; i++) {
+            var spotifyResults = 
+                "--------------------------------------------------------------------" +
+                    "\nArtist(s): " + response.tracks.items[i].artists[0].name + 
+                    "\nSong Name: " + response.tracks.items[i].name +
+                    "\nAlbum Name: " + response.tracks.items[i].album.name +
+                    "\nPreview Link: " + response.tracks.items[i].preview_url;
+                    
+            console.log(spotifyResults);
+        }
+    })
+    .catch(function(err) {
+        console.log(err);
+    });
+}
