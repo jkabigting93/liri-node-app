@@ -1,10 +1,10 @@
 require("dotenv").config();
 
+var axios = require("axios");
 var keys = require("./keys.js");
 var Spotify = require("node-spotify-api");
 var spotify = new Spotify(keys.spotify);
-
-var axios = require("axios");
+var fs = require("fs");
 
 // Takes command line arguments for each function
 var command = process.argv[2];
@@ -73,9 +73,9 @@ function spotifySong(value) {
 // Movie-This (OMDb)
 function movieThis(value) {
     if(!value){
-        value = "Mr. Nobody";
+        value = "Mr Nobody";
     }
-    axios.get("https://www.omdbapi.com/?t=" + value + "&y=&plot=short&apikey=trilogy")
+    axios.get("https://www.omdbapi.com/?t=" + value.replace(' ', '+') + "&y=&plot=short&apikey=trilogy")
     .then(function(response) {
             var movieResults = 
                 "*********************************************************************" +
@@ -92,5 +92,22 @@ function movieThis(value) {
     .catch(function (error) {
         console.log(error);
     });
-    
+}
+
+// Do-What-It-Says (fs)
+function doThis(value) {
+    fs.readFile("random.txt", "utf8", function(error, data) {
+        if (error) {
+            return console.log(error);
+        }
+        var dataArr = data.split(",");
+        console.log(dataArr);
+        if (dataArr[0] === "spotify-this-song") {
+            spotifySong(dataArr[1]);
+        } if (dataArr[0] === "concert-this") {
+            concertThis(dataArr[1]);
+        } if (dataArr[0] === "movie-this") {
+            movieThis(dataArr[1]);
+        }
+    })
 }
