@@ -1,6 +1,8 @@
 require("dotenv").config();
 
 var axios = require("axios");
+var moment = require("moment");
+moment().format();
 var keys = require("./keys.js");
 var Spotify = require("node-spotify-api");
 var spotify = new Spotify(keys.spotify);
@@ -8,7 +10,7 @@ var fs = require("fs");
 
 // Takes command line arguments for each function
 var command = process.argv[2];
-var value = process.argv[3];
+var value = (process.argv.slice(3)).toString();
 
 // Switch case logic to separate logic for each function
 switch (command) {
@@ -28,16 +30,17 @@ switch (command) {
 
 // Concert-This (Bandsintown)
 function concertThis(value) {
-    axios.get("https://rest.bandsintown.com/artists/" + toString(value.replace(' ', '+')) + "/events?app_id=codingbootcamp")
+    console.log(value.replace(",", " "));
+    axios.get("https://rest.bandsintown.com/artists/" + value.replace("," + "") + "/events?app_id=codingbootcamp")
     .then(function(response) {    
-        for (var i = 0; i < response.data.length; i++) {
+        for (var i = 0; i < 5; i++) {
             var datetime = response.data[i].datetime;
-            var dateArr = datetime.split('T');
+            var dateArr = datetime.split("T");
             var concertResults = 
                 "*********************************************************************" +
                     "\nVenue Name: " + response.data[i].venue.name + 
                     "\nVenue Location: " + response.data[i].venue.city +
-                    "\nDate of the Event: " + dateArr[0];
+                    "\nDate of the Event: " + moment(dateArr[0]).format("MM-DD-YYYY");
             console.log(concertResults);
         }
     })
@@ -51,8 +54,9 @@ function spotifySong(value) {
     if(!value){
         value = "The Sign";
     }
+    console.log(value.replace(",", " "));
     spotify
-    .search({ type: 'track', query: value })
+    .search({ type: "track", query: value.replace(",", " ") })
     .then(function(response) {
         for (var i = 0; i < 5; i++) {
             var spotifyResults = 
@@ -60,7 +64,7 @@ function spotifySong(value) {
                     "\nArtist(s): " + response.tracks.items[i].artists[0].name + 
                     "\nSong Name: " + response.tracks.items[i].name +
                     "\nPreview Link: " + response.tracks.items[i].preview_url;
-                    "\nAlbum Name: " + response.tracks.items[i].album.name +
+                    "\nAlbum Name: " + response.tracks.items[i].album.name;
                     
             console.log(spotifyResults);
         }
@@ -75,8 +79,8 @@ function movieThis(value) {
     if(!value){
         value = "Mr Nobody";
     }
-    console.log(value);
-    axios.get("https://www.omdbapi.com/?t=" + value.replace(' ', '+') + "&y=&plot=short&apikey=trilogy")
+    console.log(value.replace(",", " "));
+    axios.get("https://www.omdbapi.com/?t=" + value.replace(',', '+') + "&y=&plot=short&apikey=trilogy")
     .then(function(response) {
             var movieResults =
                 "*********************************************************************" +
