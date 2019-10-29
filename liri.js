@@ -42,6 +42,11 @@ function concertThis(value) {
                     "\nVenue Location: " + response.data[i].venue.city +
                     "\nDate of the Event: " + moment(dateArr[0]).format("MM-DD-YYYY");
             console.log(concertResults);
+            fs.appendFile("log.txt", "\n" + concertResults, function(err) {
+                if (err) {
+                    throw (err)
+                }
+            })
         }
     })
     .catch(function (error) {
@@ -67,6 +72,11 @@ function spotifySong(value) {
                     "\nAlbum Name: " + response.tracks.items[i].album.name;
                     
             console.log(spotifyResults);
+            fs.appendFile("log.txt", "\n" + spotifyResults, function(err) {
+                if (err) {
+                    throw (err)
+                }
+            })
         }
     })
     .catch(function(err) {
@@ -93,6 +103,11 @@ function movieThis(value) {
                     "\nPlot: " + response.data.Plot +
                     "\nActors/Actresses: " + response.data.Actors;
             console.log(movieResults);
+            fs.appendFile("log.txt", "\n" + movieResults, function(err) {
+                if (err) {
+                    throw (err)
+                }
+            })
     })
     .catch(function (error) {
         console.log(error);

@@ -1,0 +1,59 @@
+
+*********************************************************************
+Movie Title: Mad Max
+Year of Release: 1979
+IMDB Rating: 6.9
+Rotten Tomatoes Rating: 90%
+Country Produced: Australia
+Language: English
+Plot: In a self-destructing world, a vengeful Australian policeman sets out to stop a violent motorcycle gang.
+Actors/Actresses: Mel Gibson, Joanne Samuel, Hugh Keays-Byrne, Steve Bisley
+*********************************************************************
+Movie Title: The Lord of the Rings: The Fellowship of the Ring
+Year of Release: 2001
+IMDB Rating: 8.8
+Rotten Tomatoes Rating: 91%
+Country Produced: New Zealand, USA
+Language: English, Sindarin
+Plot: A meek Hobbit from the Shire and eight companions set out on a journey to destroy the powerful One Ring and save Middle-earth from the Dark Lord Sauron.
+Actors/Actresses: Alan Howard, Noel Appleby, Sean Astin, Sala Baker
+*********************************************************************
+Artist(s): Drake
+Song Name: One Dance
+Preview Link: null
+*********************************************************************
+Artist(s): Drake
+Song Name: One Dance
+Preview Link: null
+*********************************************************************
+Artist(s): Dance Gavin Dance
+Song Name: Frozen One
+Preview Link: https://p.scdn.co/mp3-preview/c4b22b488f95b7904c2fb39397a7e7974a7e1bf9?cid=3e2a1bbca9194eda9e6235a93e4ea4cf
+*********************************************************************
+Artist(s): Immortal Technique
+Song Name: Dance With the Devil
+Preview Link: https://p.scdn.co/mp3-preview/ac2a0bd171c81181bfe2194fe1d1eeffa3183128?cid=3e2a1bbca9194eda9e6235a93e4ea4cf
+*********************************************************************
+Artist(s): George Strait
+Song Name: I Just Want To Dance With You
+Preview Link: null
+*********************************************************************
+Venue Name: The Fillmore
+Venue Location: San Francisco
+Date of the Event: 10-30-2019
+*********************************************************************
+Venue Name: The Observatory
+Venue Location: Santa Ana
+Date of the Event: 10-31-2019
+*********************************************************************
+Venue Name: Taos Mesa Brewing - The Mothership
+Venue Location: El Prado
+Date of the Event: 11-03-2019
+*********************************************************************
+Venue Name: Club Congress
+Venue Location: Tucson
+Date of the Event: 11-02-2019
+*********************************************************************
+Venue Name: Music Box
+Venue Location: San Diego
+Date of the Event: 11-01-2019
