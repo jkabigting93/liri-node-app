@@ -28,7 +28,7 @@ switch (command) {
 
 // Concert-This (Bandsintown)
 function concertThis(value) {
-    axios.get("https://rest.bandsintown.com/artists/" + value + "/events?app_id=codingbootcamp")
+    axios.get("https://rest.bandsintown.com/artists/" + toString(value.replace(' ', '+')) + "/events?app_id=codingbootcamp")
     .then(function(response) {    
         for (var i = 0; i < response.data.length; i++) {
             var datetime = response.data[i].datetime;
@@ -75,9 +75,10 @@ function movieThis(value) {
     if(!value){
         value = "Mr Nobody";
     }
+    console.log(value);
     axios.get("https://www.omdbapi.com/?t=" + value.replace(' ', '+') + "&y=&plot=short&apikey=trilogy")
     .then(function(response) {
-            var movieResults = 
+            var movieResults =
                 "*********************************************************************" +
                     "\nMovie Title: " + response.data.Title + 
                     "\nYear of Release: " + response.data.Year +
@@ -100,12 +101,11 @@ function doThis(value) {
         if (error) {
             return console.log(error);
         }
-        var dataArr = data.split(",");
-        console.log(dataArr);
+        var dataArr = data.split(", ");
         if (dataArr[0] === "spotify-this-song") {
             spotifySong(dataArr[1]);
         } if (dataArr[0] === "concert-this") {
-            concertThis(dataArr[1]);
+            concertThis();
         } if (dataArr[0] === "movie-this") {
             movieThis(dataArr[1]);
         }
