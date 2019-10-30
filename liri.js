@@ -63,14 +63,13 @@ function spotifySong(value) {
     spotify
     .search({ type: "track", query: value.replace(/,/g, " ") })
     .then(function(response) {
-        for (var i = 0; i < 5; i++) {
+        for (var i = 0; i < response.tracks.items.length; i++) {
             var spotifyResults = 
                 "*********************************************************************" +
                     "\nArtist(s): " + response.tracks.items[i].artists[0].name + 
                     "\nSong Name: " + response.tracks.items[i].name +
+                    "\nAlbum Name: " + response.tracks.items[i].album.name +
                     "\nPreview Link: " + response.tracks.items[i].preview_url;
-                    "\nAlbum Name: " + response.tracks.items[i].album.name;
-                    
             console.log(spotifyResults);
             fs.appendFile("log.txt", "\n" + spotifyResults, function(err) {
                 if (err) {

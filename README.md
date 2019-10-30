@@ -17,19 +17,25 @@ The concert-this function makes an axios GET request to the Bandsintown API. Fro
 Clone the repository onto your computer. Using a command line, navigate to the root folder and install the packaged dependencies using the command "npm install". You are now ready to run the app.
 
 As this is a Node app, all commands will being with the first two arguments "node liri.js". The argument in position 2 calls the desired function, while all subsequent arguments compose the value to be passed into the function:
-    * "concert-this" - console.logs info on the upcoming concerts that the artist or band has scheduled;
-    * "spotify-this-song" - console.logs info on the 5 best matches from various artists that are potentially the song you're trying to reach;
-    * "movie-this" - console.logs info on the best match for the movie title being searched;
-    * "do-what-it-says" - takes the first argument from the random.txt file (everything before the comma) as a function call, and everything past the comma as a value to be passed into the function (no argument typed into the command line after "do-what-it-says");
+     * "concert-this" - console.logs info on the upcoming concerts that the artist or band has scheduled;
+     * "spotify-this-song" - console.logs info on the 5 best matches from various artists that are potentially the song you're trying to reach;
+     * "movie-this" - console.logs info on the best match for the movie title being searched;
+     * "do-what-it-says" - takes the first argument from the random.txt file (everything before the comma) as a function call, and everything past the comma as a value to be passed into the function (no argument typed into the command line after "do-what-it-says");
 
+All queries and results are stored on log.txt.
 
 4. Include screenshots, gifs or videos of the app functioning
-
-
 
 
 5. Contain a link to a deployed version of the app
 No deployment - command line app
 
 6. Clearly list the technologies used in the app
+     * node.js
+     * axios
+     * moment
+     * Spotify node API
+     * fs
+
 7. State your role in the app development
+Did everything!
