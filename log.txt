@@ -57,3 +57,43 @@ Date of the Event: 11-02-2019
 Venue Name: Music Box
 Venue Location: San Diego
 Date of the Event: 11-01-2019
+*********************************************************************
+Venue Name: Mt Smart Stadium
+Venue Location: Auckland
+Date of the Event: 11-02-2019
+*********************************************************************
+Venue Name: Argentine Polo Association
+Venue Location: Bwp
+Date of the Event: 04-18-2020
+*********************************************************************
+Venue Name: Arena do Grêmio
+Venue Location: Porto Alegre
+Date of the Event: 04-21-2020
+*********************************************************************
+Venue Name: Arena do Grêmio
+Venue Location: Porto Alegre
+Date of the Event: 04-23-2020
+*********************************************************************
+Venue Name: Estadio Nacional
+Venue Location: Santiago
+Date of the Event: 04-15-2020
+*********************************************************************
+Venue Name: Las Vegas Festival Grounds
+Venue Location: Las Vegas
+Date of the Event: 11-01-2019
+*********************************************************************
+Venue Name: Las Vegas Festival Grounds
+Venue Location: Las Vegas
+Date of the Event: 11-02-2019
+*********************************************************************
+Venue Name: Las Vegas Festival Grounds
+Venue Location: Las Vegas
+Date of the Event: 11-03-2019
+*********************************************************************
+Venue Name: CAMP FLOG GNAW CARNIVAL
+Venue Location: Los Angeles
+Date of the Event: 11-09-2019
+*********************************************************************
+Venue Name: Melkweg & The Box
+Venue Location: Amsterdam
+Date of the Event: 11-22-2019
