@@ -25,6 +25,7 @@ As this is a Node app, all commands will being with the first two arguments "nod
 All queries and results are stored on log.txt.
 
 4. Include screenshots, gifs or videos of the app functioning
+
 ![Concert-This working](https://raw.githubusercontent.com/jkabigting93/liri-node-app/master/images/concert-this.PNG)
 ![Movie-This working](https://raw.githubusercontent.com/jkabigting93/liri-node-app/master/images/movie-this.PNG)
 ![Spotify-This-Song working](https://raw.githubusercontent.com/jkabigting93/liri-node-app/master/images/spotify-this-song.PNG)
@@ -36,9 +37,11 @@ The above three screenshots show the three main functions working through the co
 The above three screenshots show the three main functions working through the do-what-it-says function, with the random.txt input shown as well.
 
 5. Contain a link to a deployed version of the app
+
 No deployment - command line app
 
 6. Clearly list the technologies used in the app
+
      * node.js
      * axios
      * moment
@@ -46,4 +49,5 @@ No deployment - command line app
      * fs
 
 7. State your role in the app development
+
 Did everything!
