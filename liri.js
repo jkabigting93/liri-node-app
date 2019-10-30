@@ -33,7 +33,7 @@ function concertThis(value) {
     console.log(value.replace(/,/g, " "));
     axios.get("https://rest.bandsintown.com/artists/" + value.replace(/,/g, "") + "/events?app_id=codingbootcamp")
     .then(function(response) {    
-        for (var i = 0; i < 5; i++) {
+        for (var i = 0; i < response.data.length; i++) {
             var datetime = response.data[i].datetime;
             var dateArr = datetime.split("T");
             var concertResults = 
