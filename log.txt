@@ -1493,3 +1493,237 @@ Artist(s): Us The Duo
 Song Name: One Last Dance
 Album Name: Public Record
 Preview Link: https://p.scdn.co/mp3-preview/c74ecbee2e8519c6959290921ff4daa0b20ff1d6?cid=3e2a1bbca9194eda9e6235a93e4ea4cf
+*********************************************************************
+Artist(s): All Them Witches
+Song Name: The Death Of Coyote Woman
+Album Name: Lightning At The Door
+Preview Link: https://p.scdn.co/mp3-preview/f572b2395b8955bdc5fd1e26eca04b073f188014?cid=3e2a1bbca9194eda9e6235a93e4ea4cf
+*********************************************************************
+Artist(s): All Them Witches
+Song Name: The Death Of Coyote Woman - Live
+Album Name: Live In Brussels
+Preview Link: https://p.scdn.co/mp3-preview/b4b3fe0b272af537a699922d83f5cbc165e09993?cid=3e2a1bbca9194eda9e6235a93e4ea4cf
+*********************************************************************
+Artist(s): All Them Witches
+Song Name: Death of Coyote Woman (Live)
+Album Name: At the Garage
+Preview Link: https://p.scdn.co/mp3-preview/34604f99c91502d8ee5c81de0f8aeb5a4450c762?cid=3e2a1bbca9194eda9e6235a93e4ea4cf
+*********************************************************************
+Movie Title: 2001: A Space Odyssey
+Year of Release: 1968
+IMDB Rating: 8.3
+Rotten Tomatoes Rating: 93%
+Country Produced: UK, USA
+Language: English, Russian
+Plot: After discovering a mysterious artifact buried beneath the Lunar surface, mankind sets off on a quest to find its origins with help from intelligent supercomputer H.A.L. 9000.
+Actors/Actresses: Keir Dullea, Gary Lockwood, William Sylvester, Daniel Richter
+*********************************************************************
+Movie Title: 2001: A Space Odyssey
+Year of Release: 1968
+IMDB Rating: 8.3
+Rotten Tomatoes Rating: 93%
+Country Produced: UK, USA
+Language: English, Russian
+Plot: After discovering a mysterious artifact buried beneath the Lunar surface, mankind sets off on a quest to find its origins with help from intelligent supercomputer H.A.L. 9000.
+Actors/Actresses: Keir Dullea, Gary Lockwood, William Sylvester, Daniel Richter
+*********************************************************************
+Venue Name: The Fillmore
+Venue Location: San Francisco
+Date of the Event: 10-30-2019
+*********************************************************************
+Venue Name: The Observatory
+Venue Location: Santa Ana
+Date of the Event: 10-31-2019
+*********************************************************************
+Venue Name: Taos Mesa Brewing - The Mothership
+Venue Location: El Prado
+Date of the Event: 11-03-2019
+*********************************************************************
+Venue Name: Club Congress
+Venue Location: Tucson
+Date of the Event: 11-02-2019
+*********************************************************************
+Venue Name: Barracuda
+Venue Location: Austin
+Date of the Event: 11-07-2019
+*********************************************************************
+Venue Name: Gothic Theatre
+Venue Location: Englewood
+Date of the Event: 11-05-2019
+*********************************************************************
+Venue Name: Music Box
+Venue Location: San Diego
+Date of the Event: 11-01-2019
+*********************************************************************
+Venue Name: Terminal West
+Venue Location: Atlanta
+Date of the Event: 11-12-2019
+*********************************************************************
+Venue Name: Cat’s Cradle
+Venue Location: Carrboro
+Date of the Event: 11-13-2019
+*********************************************************************
+Venue Name: Ottobar
+Venue Location: Baltimore
+Date of the Event: 11-14-2019
+*********************************************************************
+Venue Name: Saturn
+Venue Location: Birmingham
+Date of the Event: 11-11-2019
+*********************************************************************
+Venue Name: Mohawk Austin
+Venue Location: Austin
+Date of the Event: 11-08-2019
+*********************************************************************
+Venue Name: Warsaw
+Venue Location: Brooklyn
+Date of the Event: 11-15-2019
+*********************************************************************
+Venue Name: ArtsRiot
+Venue Location: Burlington
+Date of the Event: 11-16-2019
+*********************************************************************
+Venue Name: Grog Shop
+Venue Location: Cleveland Heights
+Date of the Event: 11-18-2019
+*********************************************************************
+Venue Name: Thalia Hall
+Venue Location: Chicago
+Date of the Event: 11-21-2019
+*********************************************************************
+Venue Name: Turf Club
+Venue Location: Saint Paul
+Date of the Event: 11-22-2019
+*********************************************************************
+Venue Name: Neurolux Lounge
+Venue Location: Boise
+Date of the Event: 11-26-2019
+*********************************************************************
+Venue Name: The Crocodile
+Venue Location: Seattle
+Date of the Event: 11-29-2019
+*********************************************************************
+Venue Name: The Crystal Ballroom
+Venue Location: Portland
+Date of the Event: 11-30-2019
+*********************************************************************
+Venue Name: El Club
+Venue Location: Detroit
+Date of the Event: 11-20-2019
+*********************************************************************
+Venue Name: One Eyed Jacks
+Venue Location: New Orleans
+Date of the Event: 11-09-2019
+*********************************************************************
+Venue Name: Horseshoe Tavern
+Venue Location: Toronto
+Date of the Event: 11-19-2019
+*********************************************************************
+Movie Title: Gladiator
+Year of Release: 2000
+IMDB Rating: 8.5
+Rotten Tomatoes Rating: 76%
+Country Produced: USA, UK, Malta, Morocco
+Language: English
+Plot: A former Roman General sets out to exact vengeance against the corrupt emperor who murdered his family and sent him into slavery.
+Actors/Actresses: Russell Crowe, Joaquin Phoenix, Connie Nielsen, Oliver Reed
+*********************************************************************
+Artist(s): Backstreet Boys
+Song Name: I Want It That Way
+Album Name: The Hits--Chapter One
+Preview Link: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=3e2a1bbca9194eda9e6235a93e4ea4cf
+*********************************************************************
+Artist(s): Backstreet Boys
+Song Name: I Want It That Way
+Album Name: Millennium
+Preview Link: https://p.scdn.co/mp3-preview/b8c2410a5acb68b462be6ac85f1312430e2b149c?cid=3e2a1bbca9194eda9e6235a93e4ea4cf
+*********************************************************************
+Artist(s): Anthem Lights
+Song Name: I Want It That Way
+Album Name: Covers Part IV
+Preview Link: https://p.scdn.co/mp3-preview/4a163fbfa2dbbe4433f277e0e7395dca656364f5?cid=3e2a1bbca9194eda9e6235a93e4ea4cf
+*********************************************************************
+Artist(s): "Weird Al" Yankovic
+Song Name: Ebay (Parody of "I Want It That Way" by the Backstreet Boys)
+Album Name: Poodle Hat
+Preview Link: https://p.scdn.co/mp3-preview/e217ea111ab84a777f204252fce4b18d5de3ae80?cid=3e2a1bbca9194eda9e6235a93e4ea4cf
+*********************************************************************
+Artist(s): Nineties Legends
+Song Name: I Want It That Way
+Album Name: Musicbox
+Preview Link: https://p.scdn.co/mp3-preview/8523cf42da67b41a5fce8f56c9dfd14d5ecb39a5?cid=3e2a1bbca9194eda9e6235a93e4ea4cf
+*********************************************************************
+Artist(s): Tyler and Mark
+Song Name: I Want It That Way
+Album Name: Beautiful Dreams
+Preview Link: https://p.scdn.co/mp3-preview/99c791194bbd4e5f315ca8964babf0b69bc520b3?cid=3e2a1bbca9194eda9e6235a93e4ea4cf
+*********************************************************************
+Artist(s): Dynamite Boy
+Song Name: I Want It That Way
+Album Name: Punk Goes Pop
+Preview Link: null
+*********************************************************************
+Artist(s): Backstreet Boys
+Song Name: I Want It That Way - Reimagined
+Album Name: I Want It That Way (Reimagined)
+Preview Link: https://p.scdn.co/mp3-preview/7f612d6ba66571500e981e74bb36e14b9906be77?cid=3e2a1bbca9194eda9e6235a93e4ea4cf
+*********************************************************************
+Artist(s): Steel Panther
+Song Name: I Want It That Way
+Album Name: I Want It That Way
+Preview Link: null
+*********************************************************************
+Artist(s): Jess and Gabriel
+Song Name: I Want It That Way
+Album Name: Under the Covers, Vol. 3
+Preview Link: https://p.scdn.co/mp3-preview/cc50bfee8d34ec92fda4109243c7ef0e6856f185?cid=3e2a1bbca9194eda9e6235a93e4ea4cf
+*********************************************************************
+Artist(s): Glee Cast
+Song Name: Bye Bye Bye / I Want It That Way (Glee Cast Version)
+Album Name: Bye Bye Bye / I Want It That Way (Glee Cast Version)
+Preview Link: https://p.scdn.co/mp3-preview/3aa63b5c98b98ae333e567813e5c720abb2914f0?cid=3e2a1bbca9194eda9e6235a93e4ea4cf
+*********************************************************************
+Artist(s): Backstreet Boys
+Song Name: I Want It That Way
+Album Name: 90 Sweet 90s Hits!
+Preview Link: https://p.scdn.co/mp3-preview/2f96341eb8415a3efb27375db1c4d59928408c2f?cid=3e2a1bbca9194eda9e6235a93e4ea4cf
+*********************************************************************
+Artist(s): Scary Pockets
+Song Name: I Want It That Way
+Album Name: Nu Funk
+Preview Link: https://p.scdn.co/mp3-preview/33685e005149d5e7d0199a764163ff77f7762e29?cid=3e2a1bbca9194eda9e6235a93e4ea4cf
+*********************************************************************
+Artist(s): Boyce Avenue
+Song Name: I Want It That Way
+Album Name: Cover Sessions, Vol. 2
+Preview Link: https://p.scdn.co/mp3-preview/764f1dcb8c9a9cec099cc361cb388f931bf023d3?cid=3e2a1bbca9194eda9e6235a93e4ea4cf
+*********************************************************************
+Artist(s): Backstreet Boys
+Song Name: I Want It That Way
+Album Name: NKOTBSB
+Preview Link: https://p.scdn.co/mp3-preview/adf2485de3f3f375593b5307a792e8d8e6f19794?cid=3e2a1bbca9194eda9e6235a93e4ea4cf
+*********************************************************************
+Artist(s): Piano Project
+Song Name: I Want it That Way
+Album Name: Piano Covers of Hits from 1999
+Preview Link: https://p.scdn.co/mp3-preview/42336ba0f32ffbd534b942b024019f27fba27882?cid=3e2a1bbca9194eda9e6235a93e4ea4cf
+*********************************************************************
+Artist(s): Scott Bradlee's Postmodern Jukebox
+Song Name: I Want It That Way
+Album Name: Selfies on Kodachrome
+Preview Link: https://p.scdn.co/mp3-preview/53296f4b689baaa0be6d94e8720c044e98d4b3e3?cid=3e2a1bbca9194eda9e6235a93e4ea4cf
+*********************************************************************
+Artist(s): "Weird Al" Yankovic
+Song Name: Ebay (Parody of "I Want It That Way" by the Backstreet Boys)
+Album Name: The Essential "Weird Al" Yankovic
+Preview Link: https://p.scdn.co/mp3-preview/5632d8e302d70afaa8f79c962aa4b2032a45b3ef?cid=3e2a1bbca9194eda9e6235a93e4ea4cf
+*********************************************************************
+Artist(s): Manuel Costa
+Song Name: I Want It That Way
+Album Name: I Want It That Way
+Preview Link: null
+*********************************************************************
+Artist(s): Mick Jensen
+Song Name: I Want It That Way
+Album Name: I Want It That Way
+Preview Link: https://p.scdn.co/mp3-preview/f8181f66713983fab073e133e23c741acbe00d75?cid=3e2a1bbca9194eda9e6235a93e4ea4cf
