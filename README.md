@@ -25,7 +25,15 @@ As this is a Node app, all commands will being with the first two arguments "nod
 All queries and results are stored on log.txt.
 
 4. Include screenshots, gifs or videos of the app functioning
+![Concert-This working](/images/concert-this.png)
+![Movie-This working](/images/movie-this.png)
+![Spotify-This-Song working](/images/spotify-this-song.png)
+The above three screenshots show the three main functions working through the command line.
 
+![Concert-This working through Do-What-It-Says](/images/do-what-it-says-concert.png)
+![Movie-This working through Do-What-It-Says](/images/do-what-it-says-movie.png)
+![Spotify-This-Song working through Do-What-It-Says](/images/do-what-it-says-spotify.png)
+The above three screenshots show the three main functions working through the do-what-it-says function, with the random.txt input shown as well.
 
 5. Contain a link to a deployed version of the app
 No deployment - command line app
